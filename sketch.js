@@ -83,7 +83,7 @@ function draw() {
   textSize(20);
   fill("lightyellow");
   text("Drag the Hexagonal Stone and Release it, to launch it towards the blocks",100,30);
-  text("Reload Page To Restart",100,75);
+  text("Reload Page To Restart or Press Space to bring the rock back to the slingshot",100,70);
   
   ground.display();
   stand1.display();
